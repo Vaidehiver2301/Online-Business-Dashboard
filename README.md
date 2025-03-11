@@ -54,7 +54,6 @@ This repository contains the Power BI dashboard for an Online Business Sales ana
 - **Tables**: Detailed breakdowns of product performance.
 
 ## Contributing
-We welcome contributions to improve this dashboard. Please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes.
